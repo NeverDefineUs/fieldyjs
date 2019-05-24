@@ -1,0 +1,11 @@
+{
+  "typename": "composed",
+  "fields": {
+    "simple": {
+      "type": "[simple]",
+      "required": true,
+      "field_info": {},
+      "default": null
+    }
+  }
+}

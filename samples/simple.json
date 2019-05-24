@@ -1,0 +1,29 @@
+{
+  "typename": "simple",
+  "fields": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "field_info": {},
+      "default": null
+    },
+    "age": {
+      "type": "integer",
+      "required": false,
+      "field_info": {},
+      "default": null
+    },
+    "money": {
+      "type": "float",
+      "required": false,
+      "field_info": {},
+      "default": null
+    },
+    "dt": {
+      "type": "date",
+      "required": false,
+      "field_info": {},
+      "default": null
+    }
+  }
+}
